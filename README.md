@@ -1,7 +1,7 @@
 
 * 👋 My name is Alexey Koshevoy
 * 👀 I am a cognitive scientist interested in the evolution of communication systems, sociolinguistics and scientific visualisation
-* 📚 Currently, I am a pre-doctoral student at the Cognitive Science department at ENS Paris
+* 📚 Currently I am a PhD student at Laboratoire de Psychologie Cognitive, AMU & Institut Jean Nicod, ENS
 * 📫 You can reach me by email: alexeykochevoy@gmail.com
 
 
